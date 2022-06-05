@@ -53,4 +53,4 @@
  <div><img alt="program" width="200" src="https://i.imgur.com/W9JAcV9.gif"></div>
  
  
- ![Snake animation](https://github.com/mateustormes/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mateustormes/mateustormes/blob/main/github-contribution-grid-snake.svg)
