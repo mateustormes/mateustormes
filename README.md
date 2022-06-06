@@ -37,7 +37,7 @@
   ##          
    
   ### Visitantes no Perfil
- <img align="relative" src="https://profile-counter.glitch.me/gabriel1999ap/count.svg" > 
+ <img align="relative" src="https://profile-counter.glitch.me/mateustormes/count.svg" > 
   
 
   
@@ -50,7 +50,7 @@
  <a href="https://api.whatsapp.com/send?phone=5518997648751" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
    
- <div><img alt="program" width="200" src="https://i.imgur.com/W9JAcV9.gif"></div>
+ <div><img alt="program" width="200" src="https://i.imgur.com/cufIziI.gif"></div>
  
  
  ![Snake animation](https://github.com/mateustormes/mateustormes/blob/main/github-contribution-grid-snake.svg)
